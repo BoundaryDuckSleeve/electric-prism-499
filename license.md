@@ -130,4 +130,4 @@ El botón verde en la sección Inicio rápido.
 | **License** | Compartido bajo licencia MIT |
 | **Download** | the button in the Quick Start section |
 
-*Actualizado 2026-10-09 · Compartido bajo licencia MIT*
+*Actualizado 2026-10-10 · Compartido bajo licencia MIT*
